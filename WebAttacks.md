@@ -105,9 +105,4 @@
 
 ---
 
-## GitHub Usage Tips
 
-1. Save as `OSCP-Web-Application-Cheatsheet.md`
-2. Keep `\|` escapes in Markdown tables
-3. Branch per practice target (e.g., `git checkout -b htb-jarvis`)
-4. Do **not** add advanced web topics (JWT, OAuth, deserialization) — explicitly out of OSCP scope
