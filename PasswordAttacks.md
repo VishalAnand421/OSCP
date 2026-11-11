@@ -1,4 +1,4 @@
-# OSCP / OSCP+ Password Attacks Master Cheatsheet (Consolidated)
+# OSCP / OSCP+ Password Attacks Master Cheatsheet 
 
 > **Scope**: Online password attacks (brute-force, spraying, default creds) and offline hash cracking as covered in PEN-200 Module 12 (Password Attacks).
 >
