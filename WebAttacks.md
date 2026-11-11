@@ -1,4 +1,4 @@
-# OSCP / OSCP+ Web Application Master Cheatsheet (Updated)
+# OSCP / OSCP+ Web Application Master Cheatsheet 
 
 > **Scope**: Web application attacks as an initial access vector on the OSCP/OSCP+ exam.
 >
